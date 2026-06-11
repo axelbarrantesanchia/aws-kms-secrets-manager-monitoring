@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# AWS SAM
+.aws-sam/
+
+# AWS credentials
+.aws/credentials
+.aws/config
+
+# Logs
+*.log
